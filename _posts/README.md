@@ -1,0 +1,1 @@
+core folder for posts
