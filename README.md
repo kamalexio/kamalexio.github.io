@@ -1,1 +1,1 @@
-Welcome to my website!
+core folder for my website
