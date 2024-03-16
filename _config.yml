@@ -1,13 +1,12 @@
 # Site
-# repository: sproogen/resume-theme
-# favicon: images/favicon.ico
+repository: kamalexio/kamalexio.github.io
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Aleksandr Kaminskii
-title: Finance Manager
+name: A K
+title: Aleksandr Kaminskii
 # email: 
 # website: www.github.com/kamalexio
 
@@ -48,10 +47,15 @@ github_username: kamalexio
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I am A K!
+  Welcome!
 
-  I am most skilled in Finance and IT.
+  My name is Aleksandr, I am a Finance Manager currently working in Banking sector.
+  
+  In my humble opinion I am most skilled in Finance and IT.
+  
+  I do work for some side projects on GitHub which include but are not limited to algorithmic trading and sport data science.
 
+  If You are interested, You can find my detailed core experience below.
 #content:
 # - title: Projects # Title for the section
 #    layout: list # Type of content section (list/text)
@@ -113,7 +117,7 @@ about_content: | # this will include new lines to allow paragraphs
 #      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: false
+# footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
