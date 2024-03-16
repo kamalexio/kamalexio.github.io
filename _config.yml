@@ -7,7 +7,7 @@ version: 2
 # Personal info
 name: A K
 title: Aleksandr Kaminskii
-# email: 
+email: 03yurt_lawns@icloud.com
 # website: www.github.com/kamalexio
 
 # Dark Mode (true/false/never)
@@ -120,8 +120,8 @@ about_content: | # this will include new lines to allow paragraphs
 #      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: false
-#references_title: 2024
+footer_show_references: true
+# references_title: 2024
 
 # Build settings
 remote_theme: sproogen/resume-theme
