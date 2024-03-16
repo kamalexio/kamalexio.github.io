@@ -121,7 +121,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Footer
 footer_show_references: false
-references_title: 2024
+#references_title: 2024
 
 # Build settings
 remote_theme: sproogen/resume-theme
