@@ -51,9 +51,9 @@ about_content: | # this will include new lines to allow paragraphs
 
   My name is Aleksandr, I am a Finance Manager currently working in Banking sector.
   
-  In my humble opinion I am most skilled in Finance and IT.
+  In my humble opinion, I am most skilled in Finance and IT.
   
-  I do work for some side projects on GitHub,
+  I do work for some side projects on GitHub,<br>
     which include but are not limited to algorithmic trading and sport data science (mostly football / soccer).
 
   If You are interested, You can find my detailed core experience below.
@@ -120,7 +120,7 @@ about_content: | # this will include new lines to allow paragraphs
 #      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 references_title: 2024
 
 # Build settings
