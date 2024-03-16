@@ -1,1 +1,0 @@
-core folder for layouts
