@@ -53,9 +53,12 @@ about_content: | # this will include new lines to allow paragraphs
   
   In my humble opinion I am most skilled in Finance and IT.
   
-  I do work for some side projects on GitHub which include but are not limited to algorithmic trading and sport data science.
+  I do work for some side projects on GitHub,
+    which include but are not limited to algorithmic trading and sport data science (mostly football / soccer).
 
   If You are interested, You can find my detailed core experience below.
+
+  A K
 #content:
 # - title: Projects # Title for the section
 #    layout: list # Type of content section (list/text)
@@ -117,8 +120,8 @@ about_content: | # this will include new lines to allow paragraphs
 #      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-# footer_show_references: false
-# references_title: References on request (Override references text)
+footer_show_references: true
+references_title: 2024
 
 # Build settings
 remote_theme: sproogen/resume-theme
