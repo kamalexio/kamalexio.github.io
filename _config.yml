@@ -1,7 +1,5 @@
 # Site
 repository: kamalexio/kamalexio.github.io
-
-# Content configuration version
 version: 2
 
 # Personal info
@@ -33,40 +31,33 @@ about_content: |
   A K
 
 сontent:
-
   - title: Core Experience
     layout: list
-    
     content:   
-
       - layout: left
         border: weak
         title: SAS
         sub_title: Management Reporting
         caption: 2020 - now
         description: Heavy usage
-
       - layout: left
         border: weak
         title: SQL
         sub_title: Management Reporting
         caption: 2020 - now
         description: Heavy usage
-
       - layout: left
         border: weak
         title: Python
         sub_title: Side Projects & Management Reporting
         caption: 2019 - now
         description: Medium usage
-      
       - layout: left
         border: weak
         title: Pine
         sub_title: Side Projects
         caption: 2022 - now
         description: Medium usage
-
       - layout: left
         border: weak
         title: Swift
@@ -78,11 +69,4 @@ about_content: |
 footer_show_references: false
 
 # Build settings
-remote_theme: sproogen/resume-theme
-
-sass:
-  sass_dir: _sass
-  style: compressed
-
-plugins:
- - jekyll-seo-tag
+remote_theme: sproogen/resume-theme 
