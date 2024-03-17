@@ -54,7 +54,9 @@ content:
       - layout: left
         border: weak
         title: R
-        sub_title: Side Projects
+        sub_title: | 
+          Finance<br> 
+          Side Projects
         caption: 2019 - now
 
       - layout: left
