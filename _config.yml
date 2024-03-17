@@ -31,19 +31,19 @@ content:
     layout: list
     content:
 
-      - layout: top-middle
+      - layout: left
         border: weak
         title: SAS
         sub_title: Finance
         caption: 2020 - now
       
-      - layout: top-middle
+      - layout: left
         border: weak
         title: SQL
         sub_title: Finance
         caption: 2020 - now
 
-      - layout: top-middle
+      - layout: left
         border: weak
         title: Python
         sub_title: | 
@@ -51,13 +51,13 @@ content:
           Side Projects
         caption: 2019 - now
 
-      - layout: top-middle
+      - layout: left
         border: weak
         title: Pine
         sub_title: Side Projects
         caption: 2022 - now
 
-      - layout: top-middle
+      - layout: left
         border: weak
         title: Swift
         sub_title: Side Projects
