@@ -1,19 +1,14 @@
-# Site
 repository: kamalexio/kamalexio.github.io
 version: 2
 
-# Personal info
 name: A K
 title: Aleksandr Kaminskii
 email: 03yurt_lawns@icloud.com
 
-# Dark Mode (true/false/never)
 darkmode: false
 
-# Social links
 github_username: kamalexio
 
-# About Section
 about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: |
@@ -28,36 +23,42 @@ about_content: |
 
   If You are interested - my detailed core experience is below.
 
-  A K
+  A K.
 
 сontent:
+
   - title: Core Experience
     layout: list
-    content:   
+    content:  
+
       - layout: left
         border: weak
         title: SAS
         sub_title: Management Reporting
         caption: 2020 - now
         description: Heavy usage
+
       - layout: left
         border: weak
         title: SQL
         sub_title: Management Reporting
         caption: 2020 - now
         description: Heavy usage
+
       - layout: left
         border: weak
         title: Python
         sub_title: Side Projects & Management Reporting
         caption: 2019 - now
         description: Medium usage
+
       - layout: left
         border: weak
         title: Pine
         sub_title: Side Projects
         caption: 2022 - now
         description: Medium usage
+
       - layout: left
         border: weak
         title: Swift
@@ -65,8 +66,5 @@ about_content: |
         caption: 2024 - now
         description: Light usage
 
-# Footer
 footer_show_references: false
-
-# Build settings
-remote_theme: sproogen/resume-theme 
+remote_theme: sproogen/resume-theme
