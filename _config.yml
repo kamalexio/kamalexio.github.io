@@ -49,6 +49,12 @@ content:
         sub_title: | 
           Finance<br> 
           Side Projects
+        caption: 2018 - now
+
+      - layout: left
+        border: weak
+        title: R
+        sub_title: Side Projects
         caption: 2019 - now
 
       - layout: left
