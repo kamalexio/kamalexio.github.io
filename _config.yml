@@ -18,7 +18,7 @@ github_username: kamalexio
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpeg
-about_content: | # this will include new lines to allow paragraphs
+about_content: |
   Welcome!
 
   My name is Aleksandr, I am a Finance Manager currently working in Banking sector.
@@ -33,7 +33,6 @@ about_content: | # this will include new lines to allow paragraphs
   A K
 
 сontent:
-
   - title: Core Experience
     layout: list
     content:
