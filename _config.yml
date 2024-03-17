@@ -32,7 +32,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   A K
 
-#content:
+сontent:
 
   - title: Core Experience
     layout: list
@@ -78,10 +78,3 @@ footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
-
-sass:
-  sass_dir: _sass
-  style: compressed
-
-plugins:
- - jekyll-seo-tag
