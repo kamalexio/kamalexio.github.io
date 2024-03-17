@@ -10,7 +10,6 @@ darkmode: false
 
 github_username: kamalexio
 
-about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: |
   Welcome!
@@ -22,13 +21,13 @@ about_content: |
   I do work for some side projects on GitHub,<br>
     which include but are not limited to algorithmic trading and sport data science (mostly football / soccer).
 
-  If You are interested - my detailed core experience is below.
+  If You are interested - my detailed core coding experience is below.
 
   A K
 
 content:
 
-  - title: Experience
+  - title: Core Coding Experience
     layout: list
     content:
 
@@ -37,35 +36,30 @@ content:
         title: SAS
         sub_title: Management Reporting
         caption: 2020 - now
-        description: Heavy usage
       
       - layout: left
         border: weak
         title: SQL
         sub_title: Management Reporting
         caption: 2020 - now
-        description: Heavy usage
 
       - layout: left
         border: weak
         title: Python
         sub_title: Side Projects & Management Reporting
         caption: 2019 - now
-        description: Medium usage
 
       - layout: left
         border: weak
         title: Pine
         sub_title: Side Projects
         caption: 2022 - now
-        description: Medium usage
 
       - layout: left
         border: weak
         title: Swift
         sub_title: Side Projects
         caption: 2024 - now
-        description: Light usage
 
 footer_show_references: false
 remote_theme: sproogen/resume-theme
