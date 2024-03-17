@@ -27,23 +27,45 @@ about_content: |
   A K
 
 content:
+
   - title: Experience
     layout: list
     content:
-      - layout: right
-        border: weak
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        description: Description of role
-        
+
       - layout: left
         border: weak
         title: SAS
         sub_title: Management Reporting
         caption: 2020 - now
         description: Heavy usage
+      
+      - layout: left
+        border: weak
+        title: SQL
+        sub_title: Management Reporting
+        caption: 2020 - now
+        description: Heavy usage
 
+      - layout: left
+        border: weak
+        title: Python
+        sub_title: Side Projects & Management Reporting
+        caption: 2019 - now
+        description: Medium usage
+
+      - layout: left
+        border: weak
+        title: Pine
+        sub_title: Side Projects
+        caption: 2022 - now
+        description: Medium usage
+
+      - layout: left
+        border: weak
+        title: Swift
+        sub_title: Side Projects
+        caption: 2024 - now
+        description: Light usage
 
 footer_show_references: false
 remote_theme: sproogen/resume-theme
