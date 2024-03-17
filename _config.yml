@@ -16,7 +16,7 @@ darkmode: false
 github_username: kamalexio
 
 # About Section
-# about_title: About Me
+about_title: 
 about_profile_image: images/profile.jpeg
 about_content: |
   Welcome!
@@ -35,8 +35,7 @@ about_content: |
 сontent:
   - title: Core Experience
     layout: list
-    content:
-      
+    content:   
       - layout: left
         border: weak
         title: SAS
