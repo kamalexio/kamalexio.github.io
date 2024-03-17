@@ -36,7 +36,7 @@ content:
         sub_title: Job title
         caption: Date Range (eg. November 2016 - present)
         description: Description of role
-    content:  
+        
       - layout: left
         border: weak
         title: SAS
