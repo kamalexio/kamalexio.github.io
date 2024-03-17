@@ -78,3 +78,6 @@ footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
+
+plugins:
+ - jekyll-seo-tag
