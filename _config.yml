@@ -16,7 +16,7 @@ darkmode: false
 github_username: kamalexio
 
 # About Section
-about_title: 
+about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: |
   Welcome!
@@ -33,9 +33,12 @@ about_content: |
   A K
 
 сontent:
+
   - title: Core Experience
     layout: list
+    
     content:   
+
       - layout: left
         border: weak
         title: SAS
@@ -76,3 +79,7 @@ footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
