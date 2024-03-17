@@ -31,31 +31,31 @@ content:
     layout: list
     content:
 
-      - layout: left
+      - layout: center
         border: weak
         title: SAS
         sub_title: Management Reporting
         caption: 2020 - now
       
-      - layout: left
+      - layout: center
         border: weak
         title: SQL
         sub_title: Management Reporting
         caption: 2020 - now
 
-      - layout: left
+      - layout: center
         border: weak
         title: Python
         sub_title: Side Projects & Management Reporting
         caption: 2019 - now
 
-      - layout: left
+      - layout: center
         border: weak
         title: Pine
         sub_title: Side Projects
         caption: 2022 - now
 
-      - layout: left
+      - layout: center
         border: weak
         title: Swift
         sub_title: Side Projects
